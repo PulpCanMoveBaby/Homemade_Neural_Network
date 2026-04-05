@@ -18,6 +18,7 @@ This program is also for the training portion of the machine learning process, a
   - Trains models with less computational requirements and can be effective for basic training
   - Variable number of nodes, learning rate, and epochs
   - Captures the parameters for the lowest error and stores them in a file
+  - Graphs will open at 25%, 50%, 75%, and one again at the end to visualize the training progress
 
 ## Required
   - Python 3.x
