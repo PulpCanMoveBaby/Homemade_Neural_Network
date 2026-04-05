@@ -33,5 +33,5 @@ This program is also for the training portion of the machine learning process, a
   - Update user inputs, labels(observed outputs), learning rate, nodes, and trials(epochs)
       - Make sure that you have the same number of inputs and outputs
       - During training, the inputs are the "question" and the outputs are the "answer"
-  -Run the file
+  - Run the file
  
